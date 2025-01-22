@@ -10,9 +10,10 @@ This was my first project built on the cloud, completed alongside Rajdeep Saha's
 2. Distributing content through CloudFront for enhanced latency and security.  
 3. Configuring a custom domain name with Route 53 for improved accessibility.  
 
+<br/>
 <hr>
 
-<h2>An introductory hands-on project I completed to enhance my practical cloud skills by hosting my personal static website on AWS.</h2>
+<h2>Architecture and High-Level Design</h2>
 
 <img src="https://github.com/mahdibenhocine/personal-website/blob/main/images/Ref-architecture.png">
 
@@ -33,6 +34,7 @@ The project follows a simple yet effective architecture leveraging AWS services 
 <h3>AWS Certificate Manager for SSL/TLS</h3>
 - Provisioned an SSL/TLS certificate to enable secure HTTPS communication.
 
+<br/>
 <hr>
 
 <h2>High-Level Workflow</h2>
