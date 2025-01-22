@@ -14,7 +14,7 @@ This was my first project built on the cloud, completed alongside Rajdeep Saha's
 
 <h2>An introductory hands-on project I completed to enhance my practical cloud skills by hosting my personal static website on AWS.</h2>
 
-<img src="https://github.com/mahdibenhocine/personal-website/blob/main/images/reference-architecture.jpeg">
+<img src="https://github.com/mahdibenhocine/personal-website/blob/main/images/Ref-architecture.png">
 
 The project follows a simple yet effective architecture leveraging AWS services for hosting and delivering a static website:
 
