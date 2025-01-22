@@ -34,7 +34,7 @@ The project follows a simple yet effective architecture leveraging AWS services 
 <h3>AWS Certificate Manager for SSL/TLS</h3>
 - Provisioned an SSL/TLS certificate to enable secure HTTPS communication.
 
-<br/>
+<br/><br/>
 <hr>
 
 <h2>High-Level Workflow</h2>
@@ -43,3 +43,14 @@ Content Hosting: Website files are uploaded to the S3 bucket.
 Content Delivery: CloudFront retrieves the files from S3 and caches them at edge locations closer to end users.
 Domain Resolution: Route 53 directs user traffic to the CloudFront distribution using the custom domain name.
 Secure Access: Traffic between users and the website is encrypted using HTTPS, ensured by the certificate from AWS Certificate Manager.
+
+<br/><br/>
+<hr>
+<h2>Learning Outcomes</h2>
+
+This project offers hands-on experience with cloud infrastructure, providing a practical introduction to fundamental cloud computing concepts and AWS services.
+<br/><br/>
+<b>S3 Bucket:</b> Learn to manage object storage and host web-accessible content.<br/>
+<b>CloudFront:</b> Enhance performance and availability by leveraging AWS’s global content delivery network (CDN).<br/>
+<b>Route 53:</b> Configure a custom domain name for professional branding and seamless accessibility.<br/><br/>
+By completing this project, you gain a foundational understanding of cloud hosting, storage, content delivery, and DNS management, setting the stage for deeper exploration of cloud technologies.
